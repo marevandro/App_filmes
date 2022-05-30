@@ -1,0 +1,20 @@
+Instalação: 
+- expo
+- Style Components
+- React Navigation
+
+
+StatusBar {
+    São a barra de status e notificação que ficam na parte superior da tela
+} 
+
+
+utilizando modal do expo
+
+e 
+
+web view
+Chave da API
+6f4cd65a0be0050f4b6af21ae5bcd0bc
+
+linha 100, fazer postagem sobre return, alerta entre vazio e não vazio, video 4 em 13 min
