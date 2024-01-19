@@ -1,4 +1,4 @@
-# App_filmes
+# App-filmes
 Nessa aplicação praticada através do workshop do @SujeitoProgramador, validei informações relacionadas na criação de rotas com HTTP, navegação entre telas,
 carregamento de dados salvos como string e estilização utilizando Style_Components. 
 Se você quiser praticar o mesmo projeto, aqui esta o link: https://www.youtube.com/watch?v=aFFq_nSyfgA&list=PLAF5G8rnMmBZB0gEr29t7VOqz-_vFUpN_ 
